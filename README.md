@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-👉 [View Live Site](https://your-gymstarter.netlify.app)
+👉 [View Live Site](https://gymstarter.netlify.app)
 
 ---
 
